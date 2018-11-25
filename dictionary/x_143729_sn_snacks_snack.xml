@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Snack" max_length="40" name="x_143729_sn_snacks_snack" type="collection">
+        <element label="Description" max_length="256" name="description" type="string"/>
+        <element label="Image" mandatory="true" max_length="40" name="image" type="user_image"/>
+        <element label="Name" mandatory="true" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Price" mandatory="true" max_length="20" name="price" type="currency"/>
+    </element>
+</database>

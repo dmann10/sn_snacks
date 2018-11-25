@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Purchase" max_length="40" name="x_143729_sn_snacks_purchase" sizeclass="3" type="collection">
+        <element default="javascript: gs.getUserID();" label="Purchased By" max_length="32" name="u_purchased_by" read_only="true" reference="sys_user" type="reference"/>
+        <element label="Snack" mandatory="true" max_length="32" name="u_snack" reference="x_143729_sn_snacks_snack" type="reference"/>
+    </element>
+</database>

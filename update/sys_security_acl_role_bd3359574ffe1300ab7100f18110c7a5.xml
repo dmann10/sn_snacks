@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-24 23:41:29</sys_created_on>
+        <sys_id>bd3359574ffe1300ab7100f18110c7a5</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_143729_sn_snacks_snack.x_143729_sn_snacks.snack_admin</sys_name>
+        <sys_package display_value="SN Snacks" source="x_143729_sn_snacks">0371dd534ffe1300ab7100f18110c758</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Snacks">0371dd534ffe1300ab7100f18110c758</sys_scope>
+        <sys_security_acl display_value="x_143729_sn_snacks_snack">6d3359574ffe1300ab7100f18110c7a0</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bd3359574ffe1300ab7100f18110c7a5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-09-13 19:10:22</sys_updated_on>
+        <sys_user_role display_value="x_143729_sn_snacks.snack_admin" name="x_143729_sn_snacks.snack_admin">319d51d94fa02300ab7100f18110c759</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
